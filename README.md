@@ -1,7 +1,10 @@
 # PayMeister Bank Financial Dashboard
+  
+This repository contains the Power BI dashboard project showcasing financial performance analytics for PayMeister Bank, a fictional bank operating across Germany. The dashboard provides interactive visualizations for loan distribution, sales performance, and branch analytics.
+
+![Dashboard Preview](Germany%20Bank%20Credits/img/Bank%20Loans%20Project%20-%20Germany.png)
 
 ## Table of Contents
-- [Overview](#overview)
 - [Project Description](#project-description)
 - [Key Features](#key-features)
   - [Visualizations](#visualizations)
@@ -14,11 +17,6 @@
 - [Project Context](#project-context)
 - [Disclaimer](#disclaimer)
 - [License](#license)
-  
-## Overview
-This repository contains the Power BI dashboard project showcasing financial performance analytics for PayMeister Bank, a fictional bank operating across Germany. The dashboard provides interactive visualizations for loan distribution, sales performance, and branch analytics.
-
-![Dashboard Preview](Germany%20Bank%20Credits/img/Bank%20Loans%20Project%20-%20Germany.png)
 
 ## Project Description
 This Power BI dashboard transforms raw financial data into meaningful insights through interactive visualizations. The project demonstrates effective data preprocessing and analytics techniques applied to banking financial data.
